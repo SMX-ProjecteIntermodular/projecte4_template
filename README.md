@@ -1,11 +1,23 @@
-# Projecte 4: "El llarg camí del júnior"
+# Projecte 4: "EverPia, el llarg camí del júnior"
 
-Aquest repositori és la plantilla pel repositori dels alumnes que servirà pel lliurament de les tasques corresponents.
+<p align="center">
+  <img
+    src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80"
+    alt="Grupo de personas trabajando en una computadora portátil"
+  />
+</p>
 
 Nom: [Posa el teu nom aquí]
+
 Nom del company/a: [Posa el nom del teu company/a aquí]
 
-![Imatge del projecte](https://images.pexels.com/photos/7376/startup-photos.jpg)
+Número de grup: [Posa el número el vostre grup aquí]
+
+Classe: [Posa la classe aquí]
+
+Curs: GM Sistemes Microinformàtics i Xarxes 2026-2027
+
+---
 
 ## Enunciat del projecte
 
@@ -37,5 +49,7 @@ projecte4/
 │   └── README.md
 └── ...
 ```
+
+**Recordeu**: poseu a dins de cada carpeta de tasca un arxiu `README.md` amb la descripció detallada de l'activitat realitzada, les imatges a dins una carpeta `img` o el nom que indiqui l'enunciat en cada casa. Eviteu penjar arxius molt grans, com vídeos, millor utilitzar enllaços al núvol (Google Drive, OneDrive, etc.) si cal.
 
 Bona sort! 🚀
