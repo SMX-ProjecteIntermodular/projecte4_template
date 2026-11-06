@@ -34,6 +34,7 @@ Curs: GM Sistemes Microinformàtics i Xarxes 2026-2027
 3. **Procediment de treball:**
    - A mesura que completeu cada tasca, actualitzeu el vostre repositori local amb els canvis.
    - Cada dia, abans de finalitzar la jornada, pugeu els canvis al  repositori remot a GitHub.
+   - No us oblideu de fer el seguiment de les tasques al Kanban del projecte, actualitzant l'estat de cada tasca a mesura que avanceu.
 
 ## Estructura del projecte
 
