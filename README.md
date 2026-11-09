@@ -25,7 +25,10 @@ Curs: GM Sistemes Microinformàtics i Xarxes 2026-2027
 
 ## Instruccions
 
-1. Afegiu com a col·laboradors del vostre repositori a GitHub els vostres professors de mòdul.
+1. Afegiu com a col·laboradors del vostre repositori a GitHub els professors amb tasques de revisió i avaluació. Això permetrà que puguin accedir al vostre repositori i revisar el vostre treball.
+
+   - [Professors col·laboradors SMX 2n A](docs/profes2A.md)
+   - [Professors col·laboradors SMX 2n B](docs/profes2B.md)
 
 2. **Organització del repositori:**
    - Cada activitat ha d'estar dins d'una carpeta titulada `Tasca01`, `Tasca02`, etc.
