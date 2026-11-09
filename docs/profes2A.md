@@ -6,4 +6,5 @@
 |Isabel Bosch       | `isabel.bosch@mataro.epiaedu.cat`     | `iboschmi`           |
 |Carles Fugarolas   | `carles.fugarolas@mataro.epiaedu.cat` | `cfugarolas`         |
 |Cristian González  | `cristian.gonzalez@mataro.epiaedu.cat`| `CR1stiancom`        |
+|Jéssica Sánchez    | `jessicasanchez@mataro.epiaedu.cat`   | `jspJESS`   |
 |Martí Zamora       | `marti.zamora@mataro.epiaedu.cat`     | `martizamoramerino`  |

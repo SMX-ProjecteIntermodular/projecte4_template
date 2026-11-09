@@ -5,4 +5,5 @@
 |Carlos Alonso      | `carlos.martinez@mataro.epiaedu.cat`  | `carlesalonso`       |
 |Isabel Bosch       | `isabel.bosch@mataro.epiaedu.cat`     | `iboschmi`           |
 |Cristian González  | `cristian.gonzalez@mataro.epiaedu.cat`| `CR1stiancom`        |
-|Blai Redondo       | `blai.redondo@mataro.epiaedu.cat`     | ``  |
+|Blai Redondo       | `blai.redondo@mataro.epiaedu.cat`     |  |
+|Jéssica Sánchez    | `jessicasanchez@mataro.epiaedu.cat`   | `jspJESS`     |º
