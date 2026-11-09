@@ -56,4 +56,6 @@ projecte4/
 
 **Recordeu**: poseu a dins de cada carpeta de tasca un arxiu `README.md` amb la descripció detallada de l'activitat realitzada, les imatges a dins una carpeta `img` o el nom que indiqui l'enunciat en cada casa. Eviteu penjar arxius molt grans, com vídeos, millor utilitzar enllaços al núvol (Google Drive, OneDrive, etc.) si cal.
 
+> GitHub limita la mida del repositori (carpeta `.git`) a més, arxius grans ralentitzen les operacions de sincronització i poden provocar errors.
+
 Bona sort! 🚀
